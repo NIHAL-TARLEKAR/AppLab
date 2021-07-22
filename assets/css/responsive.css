@@ -1,0 +1,465 @@
+@media (max-width: 1920px){
+    .img-download-app {
+        top: -61%;
+    }
+}
+@media (max-width: 1600px){
+    .img-download-app {
+        top: -29%;
+    }
+}
+@media (max-width: 1440px){
+    .img-download-app {
+        top: -12%;
+    }
+}
+@media (min-width: 1366px) and (max-height: 768px){
+    .img-download-app {
+        top: -5%;
+    }
+}
+@media (min-width: 1280px) and (max-height: 800px){
+    .img-download-app {
+        top: -20%;
+    }
+    .banner-caption p {
+        margin-top: -22%;
+    }
+    .editor-choice p {
+        margin-top: -38%;
+    }
+    
+}
+@media (min-width: 1280px) and (max-height: 610px){
+    .img-download-app {
+        top: -20%;
+    }
+}
+@media (max-width: 1024px){
+    .editor-choice p {
+        font-size: 14px;
+    }
+    .img-right-sign {
+        width: 3%;
+    }
+    .banner-caption h2, .business-class h4 {
+        font-size: 40px;
+    }
+    .banner-caption p, .per-month, .client-name h5 {
+        font-size: 16px;
+    }
+    .buttons .btn-free, .buttons .btn-demo-video {
+        margin-top: -17%;
+    }
+    .btn-demo-video {
+        margin-left: 17%;
+    }
+    .features-caption h2, .integration-caption h4, .choose-our-app-caption h4, .ultimate-features-caption h4, .extra-charges-caption h4 {
+        font-size: 34px;
+    }
+    .features-caption p, .choose-our-app-caption p, .ultimate-features-caption p, .features-subcaption p, .jackpot-caption p, .smart-jackpot p, .integration-caption p, .testinomail-caption p, .card-body {
+        font-size: 14px;
+    }
+    .features-subcaption h6, .jackpot-caption h4, .ult-feat-caption h6, .choose-caption h6, .business-class h5, .btn-link {
+        font-size: 18px;
+    }
+    .smart-jackpot h3, .testinomail-caption h4, .faq-caption h4 {
+        font-size: 36px;
+    }
+    .img-ultimate-feature {
+        width: 55%;
+        top: 10%;
+    }
+    .circular-border {
+        width: 28%;
+    }
+    .last-li {
+        margin-left: 9%;
+    }
+    .download-app h4 {
+        font-size: 36px;
+    }
+    .img-download-app {
+        top: -2%;
+        width: 62%;
+    }
+}
+@media (max-width: 800px){
+    .banner-caption p, .per-month, .client-name h5 {
+        font-size: 14px;
+    }
+    .editor-choice p {
+        padding-right: 15px;
+        margin-top: -38% !important;
+    }
+    .banner-caption h2, .business-class h4 {
+        font-size: 30px;
+    }
+    .banner-caption h2 {
+        margin-top: -33%;
+    }
+    .banner-caption p {
+        margin-top: -23%;
+    }
+    .buttons .btn-free, .buttons .btn-demo-video {
+        margin-top: -15%;
+    }
+    .btn-demo-video {
+        margin-left: 20%;
+    }
+    .img-client {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        width: 60%;
+    }
+    .img-feature{
+        width: 75%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    .features-caption, .features-subcaption, .integration-caption, .ultimate-features-caption, .ult-feat-caption, .testinomail-caption, .card-body, .download-app{
+        text-align: center;
+    }
+    .app-plan {
+        width: 90%;
+    }
+    .features-subcaption{
+        margin-top: 5%;
+    }
+    .img-speed, .img-choose {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0%;
+    }
+    .features-caption h2, .integration-caption h4, .choose-our-app-caption h4, .ultimate-features-caption h4, .extra-charges-caption h4 {
+        font-size: 48px;
+    }
+    .features-caption p, .choose-our-app-caption p, .ultimate-features-caption p, .features-subcaption p, .jackpot-caption p, .smart-jackpot p, .integration-caption p, .testinomail-caption p, .card-body {
+        font-size: 16px;
+    }
+    .features-subcaption h6, .jackpot-caption h4, .ult-feat-caption h6, .choose-caption h6, .business-class h5 {
+        font-size: 24px;
+    }
+    .smart-jackpot h3, .testinomail-caption h4, .faq-caption h4 {
+        font-size: 30px;
+    }
+    .smart-jackpot p{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .img-integration{
+        width: 80%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .integration-caption {
+        padding-left: 0px;
+        padding-top: 80px;
+    }
+    .img-ultimate-feature{
+        top: 0%;
+        left: 26%;
+    }
+    .ultimate-features-caption{
+        margin-top: 75%;
+    }
+    .circular-border {
+        width: 38%;
+    }
+    .last-li {
+        margin-left: 10%;
+    }
+    .img-people-image {
+        margin-top: 0%;
+        margin-bottom: 10%;
+    }
+    .faq-caption {
+        margin-top: 10%;
+    }
+    .btn-link {
+        font-size: 20px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .img-download-app {
+        top: 0%;
+        width: 75%;
+        position: relative;
+    }
+    .download-app h4 {
+        font-size: 36px;
+        margin-top: 5%;
+    }
+    .footer {
+        padding-bottom: 30px;
+    }
+
+}
+@media (max-width: 768px){
+
+}
+@media (max-width: 480px){
+    .nav-item .btn-free{
+        margin-left: 0% !important;
+        margin-top: 0% !important;
+    }
+    .img-menu{
+        width: 50%;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: transparent;
+    }
+    .banner-caption h2, .banner-caption p, .editor-choice p{
+        position: relative;
+        text-align: center;
+        margin-top: 0% !important;
+    }
+    .img-right-sign {
+        width: 7%;
+        margin-top: 0%;
+    }
+    .banner-caption{
+        margin-top: -1%;
+        padding-top: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 40px;
+        background-color: #edf3fa;
+    }
+    .editor-choice {
+        border-radius: 50px;
+    }
+    .btn-link {
+        font-size: 13px;
+    }
+    .editor-choice p {
+        font-size: 18px;
+    }
+    .banner-caption h2{
+        font-size: 38px;
+        margin-top: 7% !important;
+    }
+    .integration-caption .btn-free{
+        margin-left: 0%;
+    }
+    .banner-caption p{
+        margin-top: 5% !important;
+    }
+    .banner-caption p, .per-month, .client-name h5 {
+        font-size: 16px;
+    } 
+    .btn-free{
+        margin-left: 10%;
+    }
+    .btn-demo-video{
+        margin-left: 5%;
+    }
+    .btn-free, .btn-demo-video{
+        position: relative !important;
+        margin-top: 7% !important;
+    }
+    .client-logo {
+        padding-top: 50px;
+    }
+    .features-caption h2, .integration-caption h4, .choose-our-app-caption h4, .ultimate-features-caption h4, .extra-charges-caption h4 {
+        font-size: 40px;
+    }
+    .features-subcaption h6, .jackpot-caption h4, .ult-feat-caption h6, .choose-caption h6, .business-class h5 {
+        font-size: 22px;
+    }
+    .smart-jackpot h3, .testinomail-caption h4, .faq-caption h4 {
+        font-size: 28px;
+    }
+    .smart-jackpot h3{
+        text-align: center;
+    }
+    .integration-caption {
+        padding-top: 20px;
+    }
+    .img-border{
+        display: none;
+    }
+    .img-ultimate-feature {
+        top: 0%;
+        left: 10%;
+        width: 80%;
+    }
+    .ultimate-features-caption {
+        margin-top: 100%;
+    }
+    .smart-jackpot p {
+        text-align: center;
+        padding-left: 0;
+        padding-top: 10px;
+        padding-bottom: 0;
+    }
+    .img-jackpot{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .jackpot-caption{
+        text-align: center;
+    }
+    .jakpot-image{
+        margin-top: 0% !important;
+    }
+    .ultimate-features .btn-free{
+        margin-left: 40%;
+    }
+    .circular-border {
+        width: 100%;
+        border: 0px;
+        margin-left: 0%;
+        margin-right: 5%;
+    }
+    .last-li {
+        margin-left: auto;
+    }
+    .banner-caption h2, .business-class h4 {
+        font-size: 48px;
+    }
+    .app-plan{
+        margin-bottom: 10%;
+    }
+    .app-plan .btn-free{
+        margin-left: 0%;
+        margin-top: 0% !important;
+    }
+    .business-class-1 p {
+        line-height: 25px;
+    }
+    .carousel-item{
+        text-align: center;
+        margin-top: 5%;
+    }
+    .carousel-item p{
+        margin-bottom: 5%;
+    }
+    .client-name h5, .client-name p{
+        text-align: left !important;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        top: 70%;
+    }
+    .btn-link {
+        font-size: 18px;
+        white-space: normal;
+    }
+    .img-store{
+        margin-top: 10%;
+        width: 50%;
+    }
+    .img-download-app {
+        width: 80%;
+    }
+    .download-app h4 {
+        font-size: 34px;
+        margin-top: 5%;
+    }
+}
+@media (max-width: 414px) and (max-height: 896px){
+    
+}
+@media (max-width: 384px){
+    .banner-caption h2, .business-class h4 {
+        font-size: 42px;
+    }
+    .btn-free {
+        margin-left: 0%;
+    }
+    .btn-demo-video {
+        margin-left: 8%;
+    }
+    .features-caption h2, .integration-caption h4, .choose-our-app-caption h4, .ultimate-features-caption h4, .extra-charges-caption h4 {
+        font-size: 36px;
+    }
+    .features-subcaption h6, .jackpot-caption h4, .ult-feat-caption h6, .choose-caption h6, .business-class h5 {
+        font-size: 20px;
+    }
+    .smart-jackpot h3, .testinomail-caption h4, .faq-caption h4 {
+        font-size: 26px;
+    }
+    .download-app h4 {
+        font-size: 32px;
+        margin-top: 5%;
+    }
+}
+@media (max-width: 360px){
+    .banner-caption p, .per-month, .client-name h5, .btn-free, .btn-demo-video, .btn-trail:hover, .btn-trail {
+        font-size: 14px;
+    }
+    .banner-caption h2, .business-class h4 {
+        font-size: 36px;
+    }
+    .features-caption h2, .integration-caption h4, .choose-our-app-caption h4, .ultimate-features-caption h4, .extra-charges-caption h4 {
+        font-size: 32px;
+    }
+    .features-caption p, .choose-our-app-caption p, .ultimate-features-caption p, .features-subcaption p, .jackpot-caption p, .smart-jackpot p, .integration-caption p, .testinomail-caption p, .card-body {
+        font-size: 14px;
+    }
+    .features-subcaption h6, .jackpot-caption h4, .ult-feat-caption h6, .choose-caption h6, .business-class h5 {
+        font-size: 18px;
+    }
+    .smart-jackpot h3, .testinomail-caption h4, .faq-caption h4 {
+        font-size: 24px;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link, .nav-pills .nav-link {
+        font-size: 14px;
+    }
+    .btn-link {
+        font-size: 16px;
+    }
+    .download-app h4 {
+        font-size: 26px;
+        margin-top: 5%;
+    }
+}
+@media (max-width: 320px){
+    .banner-caption p, .per-month, .client-name h5, .btn-free, .btn-demo-video, .btn-trail:hover, .btn-trail {
+        font-size: 12px;
+    }
+    .banner-caption h2, .business-class h4 {
+        font-size: 32px;
+    }
+    .features-caption h2, .integration-caption h4, .choose-our-app-caption h4, .ultimate-features-caption h4, .extra-charges-caption h4 {
+        font-size: 30px;
+    }
+    .features-caption p, .choose-our-app-caption p, .ultimate-features-caption p, .features-subcaption p, .jackpot-caption p, .smart-jackpot p, .integration-caption p, .testinomail-caption p, .card-body {
+        font-size: 12px;
+    }
+    .features-subcaption h6, .jackpot-caption h4, .ult-feat-caption h6, .choose-caption h6, .business-class h5 {
+        font-size: 16px;
+    }
+    .smart-jackpot h3, .testinomail-caption h4, .faq-caption h4 {
+        font-size: 22px;
+    }
+    .features-caption h2, .integration-caption h4, .choose-our-app-caption h4, .ultimate-features-caption h4, .extra-charges-caption h4 {
+        font-size: 26px;
+    }
+    .ultimate-features .btn-free {
+        margin-left: 32%;
+    }
+    .carousel-control-prev, .carousel-control-next {
+        top: 78%;
+    }
+    .carousel-control-prev {
+        left: 63%;
+    }
+    .client-name p {
+        margin-top: -5%;
+    }
+    .btn-link {
+        font-size: 14px;
+    }
+    .download-app h4 {
+        font-size: 22px;
+    }
+    .footer-link li, .social-icon li {
+        font-size: 12px;
+    }
+}
