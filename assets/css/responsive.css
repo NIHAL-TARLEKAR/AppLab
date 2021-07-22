@@ -207,6 +207,9 @@
         margin-left: 0% !important;
         margin-top: 0% !important;
     }
+    .buttons .btn-free, .buttons .btn-demo-video{
+        font-size: 14px;
+    }
     .img-menu{
         width: 50%;
     }
